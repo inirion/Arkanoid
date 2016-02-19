@@ -1,0 +1,12 @@
+﻿  Paddle.cpp
+c:\users\grzegorz kokoszka\documents\visual studio 2015\projects\arkanoid\arkanoid\paddle.cpp(63): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+  Main.cpp
+c:\users\grzegorz kokoszka\documents\visual studio 2015\projects\arkanoid\arkanoid\main.cpp(36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\grzegorz kokoszka\documents\visual studio 2015\projects\arkanoid\arkanoid\main.cpp(37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\grzegorz kokoszka\documents\visual studio 2015\projects\arkanoid\arkanoid\main.cpp(118): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Funkcje.cpp
+  Block.cpp
+  Ball.cpp
+c:\users\grzegorz kokoszka\documents\visual studio 2015\projects\arkanoid\arkanoid\ball.cpp(64): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+  Generating Code...
+  arkanoid.vcxproj -> C:\Users\Grzegorz Kokoszka\documents\visual studio 2015\Projects\arkanoid\Debug\arkanoid.exe

@@ -1,0 +1,14 @@
+﻿  Ball.cpp
+Ball.cpp(64): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+  Block.cpp
+  Funkcje.cpp
+  Main.cpp
+Main.cpp(36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Main.cpp(37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Main.cpp(118): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Paddle.cpp
+Paddle.cpp(63): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+  Generating code
+  All 135 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  arkanoid.vcxproj -> C:\Users\Grzegorz Kokoszka\documents\visual studio 2015\Projects\arkanoid\x64\Release\arkanoid.exe
